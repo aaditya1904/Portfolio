@@ -1,0 +1,19 @@
+.body {
+  background-image: url("./aboutbg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+  width: 100vw;
+  height: 100vh;
+}
+.content {
+  font-size: x-large;
+  font-style: oblique;
+  margin-top: 33px;
+  width: 60%;
+  color: white;
+}
+h1 {
+  margin-top: 32px;
+  color: white;
+}

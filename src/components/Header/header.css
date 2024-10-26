@@ -1,0 +1,17 @@
+.head{
+   
+    background-color: black;
+    max-width: 100%;
+}
+ul{
+    list-style: none;
+}
+.head li {
+    display: inline-block;
+    padding: 2rem;
+}
+hr{
+    max-width: 100%;
+}
+
+ 
