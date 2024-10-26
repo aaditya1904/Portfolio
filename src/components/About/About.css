@@ -7,6 +7,7 @@
   height: 100vh;
 }
 .content {
+  background-color: black;
   font-size: x-large;
   font-style: oblique;
   margin-top: 33px;
