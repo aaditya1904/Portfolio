@@ -29,3 +29,8 @@ hr {
 .bar-btn a:hover {
     color: aqua; 
 }
+@media only screen and (max-width:376px) {
+    .bar-btn a {
+        font-size: 15px;
+    }
+}
