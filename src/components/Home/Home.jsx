@@ -1,5 +1,4 @@
 import React from "react";
-import "./Home.css";
 const handleClickLinkedIn = () => {
   const url = "https://www.linkedin.com/in/adityarajput0404";
   window.open(url, '_blank'); 
