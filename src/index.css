@@ -26,10 +26,30 @@ button {
   }
 }
 body {
-  background-image: url("./assets/bg.jpg");
+  background-image: url("./assets/formobilebg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   overflow: hidden;
   max-width: 100%;
   width: 100vw;
+}
+@media only screen and (max-width : 731px){
+  body {
+    background-image: url("./assets/formobilebg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+    max-width: 100%;
+    width: 100vw;
+  }
+}
+@media only screen and (max-width : 820px){
+  body {
+    background-image: url("./assets/formobilebg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+    max-width: 100%;
+    width: 100vw;
+  }
 }
