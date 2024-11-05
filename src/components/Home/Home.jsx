@@ -1,10 +1,10 @@
 import React from "react";
 const handleClickLinkedIn = () => {
-  const url = "https://www.linkedin.com/in/adityarajput0404";
+  let url = "https://www.linkedin.com/in/adityarajput0404";
   window.open(url, '_blank'); 
 };
 const handleClickResume = () => {
-  const url = "https://drive.google.com/file/d/1gbOmfIIirtaLkstXGRQlQTsE32a-0Avt/view?usp=sharing";
+  let url = "https://drive.google.com/file/d/1gbOmfIIirtaLkstXGRQlQTsE32a-0Avt/view?usp=sharing";
   window.open(url, '_blank'); 
 };
 function Home() {
